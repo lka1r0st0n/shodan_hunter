@@ -84,8 +84,10 @@ Geração de relatórios de risco.
 
 ### 📦 Estrutura do Projeto
 
+```bash
 📁 shodan_hunter/
 ├── shodan_hunter.py      # Script principal
 ├── requirements.txt      # Dependências Python
 ├── README.md             # Documentação do projeto
 └── shodan_resultados.csv # Arquivo de saída gerado após a execução
+```
